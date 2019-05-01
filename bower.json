@@ -1,0 +1,13 @@
+{
+	"name": "Orange_is_the_New_Cat",
+	"version": "1.0.0",
+	"main": "path/to/main.css",
+	"ignore": [
+		".jshintrc",
+		"**/*.txt"
+	],
+	"dependencies": {
+	},
+	"devDependencies": {
+	}
+}
